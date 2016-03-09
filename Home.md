@@ -1,3 +1,3 @@
 # What is this?
 
-This is interesting. [Cows]
+This is interesting. [Cows](cows.md)
